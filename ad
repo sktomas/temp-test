@@ -1,0 +1,42 @@
+[33mcommit e5d3268af8113e7c9dff48088e37d4c67bdc1ff1[m
+Author: tom <gywacius@yahoo.com>
+Date:   Tue Feb 28 18:54:05 2017 +0200
+
+    Add content to index.html
+
+[1mdiff --git a/index.html b/index.html[m
+[1mindex e69de29..ce01362 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mhello[m
+
+[33mcommit 373f09537d67fd382f846924a2ae7b2c1c727da3[m
+Author: tom <gywacius@yahoo.com>
+Date:   Tue Feb 28 18:52:39 2017 +0200
+
+    add bar
+
+[1mdiff --git a/bar b/bar[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+
+[33mcommit 54c2fe375a8456f3303e49e3323b7e4b36b41c55[m
+Author: tom <gywacius@yahoo.com>
+Date:   Tue Feb 28 18:52:15 2017 +0200
+
+    add too
+
+[1mdiff --git a/too b/too[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+
+[33mcommit 171551376f006a8571ce480a64dffad95fd8755f[m
+Author: tom <gywacius@yahoo.com>
+Date:   Tue Feb 28 18:50:45 2017 +0200
+
+    Init repo
+
+[1mdiff --git a/index.html b/index.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
